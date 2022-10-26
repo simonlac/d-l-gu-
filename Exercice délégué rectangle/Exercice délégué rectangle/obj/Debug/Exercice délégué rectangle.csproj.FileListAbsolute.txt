@@ -1,0 +1,3 @@
+H:\windows programming\Exercice délégué rectangle\Exercice délégué rectangle\obj\Debug\Exercice délégué rectangle.csproj.AssemblyReference.cache
+H:\windows programming\Exercice délégué rectangle\Exercice délégué rectangle\obj\Debug\Exercice délégué rectangle.csproj.SuggestedBindingRedirects.cache
+H:\windows programming\Exercice délégué rectangle\Exercice délégué rectangle\obj\Debug\Exercice délégué rectangle.csproj.CoreCompileInputs.cache
